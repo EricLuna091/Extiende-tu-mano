@@ -14,6 +14,7 @@ Para que los usuarios se puedan regristrar hemos utilizado el pluguin Ultimate M
 Para realizar el formulario de la página principal, hemos utilizado el WPForms y para los demás hemos utilizado los del pluguin Elementor.
 
 Todavía tenemos que optimizar la página web, sobretodo para móvil(principalmente por el mapa). También actualizaremos y pondremos un chat entre usuarios, para que puedan interactuar entre ellos. Poco a poco también añadiremos más posts y noticias interesantes.(Estamos en contacto con otras webs para poder hacerlo)
+Tenemos pensado crear una app para Andoid para un futuro muy próximo, más a delante lo haremos para iOS.
 
 Nuestra página actual es: https://eritech.es/
 Hemos creado un nuevo dominio y haremos un traspaso de Worpress hacia la nueva web, creemos que debido al nombre de la iniciativa es lo más adecuado para esta web.
