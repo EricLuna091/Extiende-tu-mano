@@ -13,9 +13,12 @@ Para crear el mapa hemos utilizado el pluguin WP Google Map Pluguin, utilizando 
 Para que los usuarios se puedan regristrar hemos utilizado el pluguin Ultimate Member.
 Para realizar el formulario de la página principal, hemos utilizado el WPForms y para los demás hemos utilizado los del pluguin Elementor.
 
-Nuestra página actual es: eritech.es
-Hemos creado otro dominio el cual vamos a transpasar esta web.
-El dominio de la nueva página web será: extiendetumano.es
+Todavía tenemos que optimizar la página web, sobretodo para móvil(principalmente por el mapa). También actualizaremos y pondremos un chat entre usuarios, para que puedan interactuar entre ellos. Poco a poco también añadiremos más posts y noticias interesantes.(Estamos en contacto con otras webs para poder hacerlo)
+
+Nuestra página actual es: https://eritech.es/
+Hemos creado un nuevo dominio y haremos un traspaso de Worpress hacia la nueva web, creemos que debido al nombre de la iniciativa es lo más adecuado para esta web.
+
+El dominio de la nueva página web será: https://extiendetumano.es/
 
 Espero que aprecien nuestro trabajo.
 Gracias.
